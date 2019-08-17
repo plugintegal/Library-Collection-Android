@@ -24,6 +24,7 @@
 | **[Meow-Bottom-Navigation](https://github.com/shetmobile/MeowBottomNavigation)** | Navigasi bawah sederhana & melengkung & material untuk Android yang ditulis dalam kotlin |
 | **[CameraKit](https://github.com/CameraKit/camerakit-android)** | CameraKit membantu Anda menambahkan kamera yang andal ke aplikasi Anda dengan cepat. |
 | **[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)** | daftar scrollable berbasis RecyclerView,mirip dengan ViewPager, tetapi Anda dapat dengan cepat dan tanpa rasa sakit membuat tata letak |
+| **[TastyToast](https://github.com/yadav-rahul/TastyToast)** | Toast Nya Menarik Lho |
 
 
 
