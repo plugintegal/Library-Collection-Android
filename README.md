@@ -20,6 +20,8 @@
 | **[Night-Mode-Button](https://github.com/shrikanth7698/Night-Mode-Button)** | untuk bikin dark mode instant |
 | **[ChatView](https://github.com/shrikanth7698/ChatView)** | cheat bikin chatview paling kompleks |
 | **[SpaceTabLayout](https://github.com/long1eu/SpaceTabLayout)** | Bottom Navigation ada animnya |
+| **[Splash-Lottie-Animation](https://github.com/airbnb/lottie-android)** | Splash Screen Animasi Lebih Menarik |
+
 
 Bisa Saling nambahin & bantu ngelengkapin kalo ada yg kurang, ini juga belum semua..
 Create By **[Dhiyo Reksa](https://github.com/dhiyo7)** to **[PLUGIN](https://github.com/plugintegal)**
