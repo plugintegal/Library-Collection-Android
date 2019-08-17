@@ -22,6 +22,7 @@
 | **[SpaceTabLayout](https://github.com/long1eu/SpaceTabLayout)** | Bottom Navigation ada animnya |
 | **[Splash-Lottie-Animation](https://github.com/airbnb/lottie-android)** | Splash Screen Animasi Lebih Menarik |
 | **[Meow-Bottom-Navigation](https://github.com/shetmobile/MeowBottomNavigation)** | Navigasi bawah sederhana & melengkung & material untuk Android yang ditulis dalam kotlin |
+| **[CameraKit](https://github.com/CameraKit/camerakit-android)** | CameraKit membantu Anda menambahkan kamera yang andal ke aplikasi Anda dengan cepat. |
 
 
 
