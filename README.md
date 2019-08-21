@@ -26,6 +26,8 @@
 | **[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)** | daftar scrollable berbasis RecyclerView,mirip dengan ViewPager, tetapi Anda dapat dengan cepat dan tanpa rasa sakit membuat tata letak |
 | **[TastyToast](https://github.com/yadav-rahul/TastyToast)** | Toast Nya Menarik Lho |
 | **[ExpansionPanel](https://github.com/florent37/ExpansionPanel)** | Panel ekspansi berisi aliran kreasi dan memungkinkan pengeditan elemen yang ringan. seperti arcoddion di html |
+| **[PersistentSearchView](https://github.com/mars885/persistentsearchview)** | Floating search bar yang support AndroidX |
+| **[InboxRecyclerView](https://github.com/saket/InboxRecyclerView)** | RecyclerView yang mirip GoogleInbox |
 
 
 Bisa Saling nambahin & bantu ngelengkapin kalo ada yg kurang, ini juga belum semua..
