@@ -20,6 +20,8 @@
 | **[Night-Mode-Button](https://github.com/shrikanth7698/Night-Mode-Button)** | untuk bikin dark mode instant |
 | **[ChatView](https://github.com/shrikanth7698/ChatView)** | cheat bikin chatview paling kompleks |
 | **[SpaceTabLayout](https://github.com/long1eu/SpaceTabLayout)** | Bottom Navigation ada animnya |
+| **[Smooth Botombar](https://github.com/ibrahimsn98/SmoothBottomBar.git)** | Bottom Bar smooth edition |
+| **[AnyVhart](https://github.com/AnyChart/AnyChart-Android)** | Library buat bikin view chart di android |
 
 Bisa Saling nambahin & bantu ngelengkapin kalo ada yg kurang, ini juga belum semua..
 Create By **[Dhiyo Reksa](https://github.com/dhiyo7)** to **[PLUGIN](https://github.com/plugintegal)**
