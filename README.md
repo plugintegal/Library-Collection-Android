@@ -22,6 +22,14 @@
 | **[SpaceTabLayout](https://github.com/long1eu/SpaceTabLayout)** | Bottom Navigation ada animnya |
 | **[Smooth Botombar](https://github.com/ibrahimsn98/SmoothBottomBar.git)** | Bottom Bar smooth edition |
 | **[AnyVhart](https://github.com/AnyChart/AnyChart-Android)** | Library buat bikin view chart di android |
+| **[Splash-Lottie-Animation](https://github.com/airbnb/lottie-android)** | Splash Screen Animasi Lebih Menarik |
+| **[Meow-Bottom-Navigation](https://github.com/shetmobile/MeowBottomNavigation)** | Navigasi bawah sederhana & melengkung & material untuk Android yang ditulis dalam kotlin |
+| **[CameraKit](https://github.com/CameraKit/camerakit-android)** | CameraKit membantu Anda menambahkan kamera yang andal ke aplikasi Anda dengan cepat. |
+| **[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)** | daftar scrollable berbasis RecyclerView,mirip dengan ViewPager, tetapi Anda dapat dengan cepat dan tanpa rasa sakit membuat tata letak |
+| **[TastyToast](https://github.com/yadav-rahul/TastyToast)** | Toast Nya Menarik Lho |
+| **[ExpansionPanel](https://github.com/florent37/ExpansionPanel)** | Panel ekspansi berisi aliran kreasi dan memungkinkan pengeditan elemen yang ringan. seperti arcoddion di html |
+| **[PersistentSearchView](https://github.com/mars885/persistentsearchview)** | Floating search bar yang support AndroidX |
+| **[InboxRecyclerView](https://github.com/saket/InboxRecyclerView)** | RecyclerView yang mirip GoogleInbox |
 
 Bisa Saling nambahin & bantu ngelengkapin kalo ada yg kurang, ini juga belum semua..
 Create By **[Dhiyo Reksa](https://github.com/dhiyo7)** to **[PLUGIN](https://github.com/plugintegal)**
